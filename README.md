@@ -2,6 +2,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusHora1009&theme=chartreuse-dark&show_icons=true)
 
+### Sobre mim
+20 anos<br>
+Estudante de Sistemas de Informação<br>
+Desenvolvedor Full Stack Solo
+
 ### Meus conhecimentos
 <img src="https://img.shields.io/badge/react-javascript-yellow?logo=react"></img>
 <img src="https://img.shields.io/badge/coding-python-blue?logo=python"></img>
