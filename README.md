@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/ViniciusHora1009/ViniciusHora1009/blob/main/github-profile2.gif"></img>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusHora1009&theme=chartreuse-dark&show_icons=true)
 
 ### Sobre mim
