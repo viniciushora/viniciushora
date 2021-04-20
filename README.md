@@ -2,8 +2,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusHora1009&theme=chartreuse-dark&show_icons=true)
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?ViniciusHora1009" frameborder="0"></iframe>
-
 ### Meus conhecimentos
 <img src="https://img.shields.io/badge/react-javascript-yellow?logo=react"></img>
 <img src="https://img.shields.io/badge/coding-python-blue?logo=python"></img>
