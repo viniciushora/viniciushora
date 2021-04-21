@@ -7,7 +7,8 @@
 ### Sobre mim
 20 anos<br>
 Estudante de Sistemas de Informação<br>
-Desenvolvedor Full Stack Solo
+Desenvolvedor Full Stack Solo<br>
+<img src="https://img.shields.io/badge/os-manjaro-green?logo=manjaro"></img>
 
 ### Meus conhecimentos
 <img src="https://img.shields.io/badge/react-javascript-yellow?logo=react"></img>
