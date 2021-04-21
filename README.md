@@ -5,7 +5,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusHora1009&theme=chartreuse-dark&show_icons=true)
 
 <img src="https://img.shields.io/badge/os-manjaro-green?logo=manjaro"></img>
-<img src="https://img.shields.io/badge/editor-visual%20studio-blue?logo=visual-studio-code"></img>
+<img src="https://img.shields.io/badge/editor-visual%20studio%20code-blue?logo=visual-studio-code"></img>
 
 ### Sobre mim
 20 anos<br>
