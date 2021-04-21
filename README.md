@@ -4,11 +4,13 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusHora1009&theme=chartreuse-dark&show_icons=true)
 
+<img src="https://img.shields.io/badge/os-manjaro-green?logo=manjaro"></img>
+<img src="https://img.shields.io/badge/editor-visual%20studio-blue?logo=visual-studio-code"></img>
+
 ### Sobre mim
 20 anos<br>
 Estudante de Sistemas de Informação<br>
-Desenvolvedor Full Stack Solo<br>
-<img src="https://img.shields.io/badge/os-manjaro-green?logo=manjaro"></img>
+Desenvolvedor Full Stack Solo<br><br>
 
 ### Meus conhecimentos
 <img src="https://img.shields.io/badge/react-javascript-yellow?logo=react"></img>
