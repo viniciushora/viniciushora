@@ -24,6 +24,11 @@ Desenvolvedor Full Stack Solo
 <img src="https://img.shields.io/badge/building-electron-blue?logo=electron"></img>
 <img src="https://img.shields.io/badge/datascience-pandas-blue?logo=pandas"></img>
 <img src="https://img.shields.io/badge/ontouml-astah-blue"></img>
+<img src="https://img.shields.io/badge/database-postgresql-blue?logo=postgresql"></img>
+<img src="https://img.shields.io/badge/database-sqlite3-blue?logo=sqlite"></img>
+<img src="https://img.shields.io/badge/database-mongodb-green?logo=mongodb"></img>
+<img src="https://img.shields.io/badge/cloud-elephantsql-blue?logo=postgresql"></img>
+<img src="https://img.shields.io/badge/cloud-atlas-green?logo=mongodb"></img>
 
 ### Meus principais projetos
 <span class="badge-personabot">
