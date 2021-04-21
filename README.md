@@ -10,7 +10,7 @@
 ### Sobre mim
 20 anos<br>
 Estudante de Sistemas de Informação<br>
-Desenvolvedor Full Stack Solo<br><br>
+Desenvolvedor Full Stack Solo
 
 ### Meus conhecimentos
 <img src="https://img.shields.io/badge/react-javascript-yellow?logo=react"></img>
