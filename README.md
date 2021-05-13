@@ -8,9 +8,9 @@
 <img src="https://img.shields.io/badge/editor-visual%20studio%20code-blue?logo=visual-studio-code"></img>
 
 ## Sobre mim
-20 anos<br>
-Estudante de Sistemas de Informação<br>
-Desenvolvedor Full Stack Solo
+- 20 anos<br>
+- Estudante de Sistemas de Informação<br>
+- Desenvolvedor Full Stack Solo
 
 ## Meus conhecimentos
 <img src="https://img.shields.io/badge/react-javascript-yellow?logo=react"></img>
