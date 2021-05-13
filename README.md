@@ -9,12 +9,12 @@
 
 </div>
 
-## Sobre mim
-- 20 anos<br>
-- Estudante de Sistemas de Informação<br>
-- Desenvolvedor Full Stack Solo
+## About me
+- 20 years old<br>
+- Information Systems student<br>
+- Full Stack Developer
 
-## Meus conhecimentos
+## My Knowledges
 <img src="https://img.shields.io/badge/react-javascript-yellow?logo=react"></img>
 <img src="https://img.shields.io/badge/coding-python-blue?logo=python"></img>
 <img src="https://img.shields.io/badge/coding-C-blue?logo=c"></img>
@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/cloud-elephantsql-blue?logo=postgresql"></img>
 <img src="https://img.shields.io/badge/cloud-atlas-green?logo=mongodb"></img>
 
-## Meus principais projetos
+## My Main Projects
 <span class="badge-personabot">
 <a href="https://github.com/ViniciusHora1009/persona-bot" title="PersonaBot"><img src="https://img.shields.io/badge/repository-persona--bot-red" alt="PersonaBot Repository" /></a>
 </span>
@@ -40,10 +40,10 @@
 <a href="https://github.com/ViniciusHora1009/detetive_bot" title="DetetiveBot"><img src="https://img.shields.io/badge/repository-detetive__bot-blue" alt="DetetiveBot Repository" /></a>
 </span>
 
-## Me apoie
+## Support me
 <a href="https://www.buymeacoffee.com/viniciusdahora" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee"></a>
 
-## Redes Sociais
+## Social Media
 
 ![GitHub followers](https://img.shields.io/github/followers/ViniciusHora1009?style=social)
 ![GitHub Org's stars](https://img.shields.io/github/stars/ViniciusHora1009?style=social)
