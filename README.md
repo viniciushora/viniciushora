@@ -47,5 +47,3 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/ViniciusHora1009?style=social)
 ![GitHub Org's stars](https://img.shields.io/github/stars/ViniciusHora1009?style=social)
-
-![Twitter Follow](https://img.shields.io/twitter/follow/ViniciusHoraDev)
