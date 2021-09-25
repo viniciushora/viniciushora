@@ -14,6 +14,10 @@
 - Information Systems student<br>
 - Full Stack Developer
 
+## My Main Projects
+- [PersonaBot](https://github.com/viniciushora/persona-bot)
+- [DetetiveBot](https://github.com/viniciushora/detetive_bot)
+
 ## My Knowledges
 <img src="https://img.shields.io/badge/react-javascript-yellow?logo=react"></img>
 <img src="https://img.shields.io/badge/coding-python-blue?logo=python"></img>
@@ -31,10 +35,6 @@
 <img src="https://img.shields.io/badge/database-mongodb-green?logo=mongodb"></img>
 <img src="https://img.shields.io/badge/cloud-elephantsql-blue?logo=postgresql"></img>
 <img src="https://img.shields.io/badge/cloud-atlas-green?logo=mongodb"></img>
-
-## My Main Projects
-- [PersonaBot](https://github.com/viniciushora/persona-bot)
-- [DetetiveBot](https://github.com/viniciushora/detetive_bot)
 
 ## Support me
 <a href="https://www.buymeacoffee.com/viniciusdahora" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee"></a>
