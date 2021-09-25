@@ -10,7 +10,7 @@
 </div>
 
 ## About me
-- 20 years old<br>
+- 21 years old<br>
 - Information Systems student<br>
 - Full Stack Developer
 
