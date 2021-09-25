@@ -33,17 +33,13 @@
 <img src="https://img.shields.io/badge/cloud-atlas-green?logo=mongodb"></img>
 
 ## My Main Projects
-<span class="badge-personabot">
-<a href="https://github.com/ViniciusHora1009/persona-bot" title="PersonaBot"><img src="https://img.shields.io/badge/repository-persona--bot-red" alt="PersonaBot Repository" /></a>
-</span>
-<span class="badge-detetivebot">
-<a href="https://github.com/ViniciusHora1009/detetive_bot" title="DetetiveBot"><img src="https://img.shields.io/badge/repository-detetive__bot-blue" alt="DetetiveBot Repository" /></a>
-</span>
+- [PersonaBot](https://github.com/viniciushora/persona-bot)
+- [DetetiveBot](https://github.com/viniciushora/detetive_bot)
 
 ## Support me
 <a href="https://www.buymeacoffee.com/viniciusdahora" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee"></a>
 
 ## Social Media
 
-![GitHub followers](https://img.shields.io/github/followers/ViniciusHora1009?style=social)
-![GitHub Org's stars](https://img.shields.io/github/stars/ViniciusHora1009?style=social)
+![GitHub followers](https://img.shields.io/github/followers/viniciushora?style=social)
+![GitHub Org's stars](https://img.shields.io/github/stars/viniciushora?style=social)
