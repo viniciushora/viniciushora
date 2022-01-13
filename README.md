@@ -19,22 +19,18 @@
 - [DetetiveBot](https://github.com/viniciushora/detetive_bot)
 
 ## My Knowledges
-<img src="https://img.shields.io/badge/react-javascript-yellow?logo=react"></img>
-<img src="https://img.shields.io/badge/coding-python-blue?logo=python"></img>
-<img src="https://img.shields.io/badge/coding-C-blue?logo=c"></img>
-<img src="https://img.shields.io/badge/coding-java-orange?logo=java"></img>
-<img src="https://img.shields.io/badge/design-html-blue"></img>
-<img src="https://img.shields.io/badge/design-css-blue"></img>
-<img src="https://img.shields.io/badge/packaging-npm-red?logo=npm"></img>
-<img src="https://img.shields.io/badge/packaging-yarn-blue?logo=yarn"></img>
-<img src="https://img.shields.io/badge/building-electron-blue?logo=electron"></img>
-<img src="https://img.shields.io/badge/datascience-pandas-blue?logo=pandas"></img>
-<img src="https://img.shields.io/badge/ontouml-astah-blue"></img>
-<img src="https://img.shields.io/badge/database-postgresql-blue?logo=postgresql"></img>
-<img src="https://img.shields.io/badge/database-sqlite3-blue?logo=sqlite"></img>
-<img src="https://img.shields.io/badge/database-mongodb-green?logo=mongodb"></img>
-<img src="https://img.shields.io/badge/cloud-elephantsql-blue?logo=postgresql"></img>
-<img src="https://img.shields.io/badge/cloud-atlas-green?logo=mongodb"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 
 ## Support me
 <a href="https://www.buymeacoffee.com/viniciusdahora" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee"></a>
