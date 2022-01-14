@@ -36,8 +36,3 @@
 
 ## Support me
 <a href="https://www.buymeacoffee.com/viniciusdahora" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee"></a>
-
-## Social Media
-
-![GitHub followers](https://img.shields.io/github/followers/viniciushora?style=social)
-![GitHub Org's stars](https://img.shields.io/github/stars/viniciushora?style=social)
