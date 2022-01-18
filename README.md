@@ -4,8 +4,12 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushora&layout=compact&title_color=fffcfc&bg_color=000000&text_color=dcd2d2"/>
 
-<img src="https://github.com/viniciushora/viniciushora/blob/main/git_vini.png"></img>
+</div>
 
+⠀
+
+<div align="center">
+  <img width="175px" src="https://github.com/viniciushora/viniciushora/blob/main/git_vini.png"></img>
 </div>
 
 ## About me
