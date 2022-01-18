@@ -3,7 +3,7 @@
 <div align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushora&layout=compact&title_color=fffcfc&bg_color=000000&text_color=dcd2d2"/>
-  
+
 <img src="https://img.shields.io/badge/os-solus-blue?logo=solus"></img>
 <img src="https://img.shields.io/badge/editor-visual%20studio%20code-blue?logo=visual-studio-code"></img>
 
