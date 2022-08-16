@@ -13,7 +13,7 @@
 </div>
 
 ## About me
-- 21 years old<br>
+- 22 years old<br>
 - Information Systems student<br>
 - Full Stack Developer
 
