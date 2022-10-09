@@ -20,7 +20,7 @@
 ## My Main Projects
 - [PersonaBot](https://github.com/viniciushora/persona-bot)
 - [DetetiveBot](https://github.com/viniciushora/detetive_bot)
-- [Damas em Javascript] (https://viniciushora.github.io/damas/)
+- [Damas em Javascript](https://viniciushora.github.io/damas/)
 
 ## My Knowledges
 <p align="left">
