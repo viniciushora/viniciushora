@@ -15,7 +15,7 @@
 ## About me
 - 22 years old<br>
 - Information Systems student<br>
-- TL++ / Full Stack Developer
+- Full Stack Developer (React/NodeJS)
 
 ## My Main Projects
 - [PersonaBot](https://github.com/viniciushora/persona-bot)
