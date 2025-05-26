@@ -13,8 +13,8 @@
 </div>
 
 ## About me
-- 23 years old<br>
-- Information Systems student<br>
+- 24 years old<br>
+- Graduated in Information Systems at IFES<br>
 - Full Stack Developer (React/NodeJS)
 
 ## My Main Projects
